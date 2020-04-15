@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586741276 source:e:\programs\c\inverse_matrix_v4\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
